@@ -1,0 +1,15 @@
+*/target
+*/target/**
+**/*.iml
+**/.idea
+**/.idea/**
+**/.classpath
+**/.project
+**/node_modules/
+frontend/src/main/frontend/dist
+**/selenium-debug.log
+**/package-lock.json
+backend/src/main/resources/webroot
+.vertx/
+.vscode
+**/.settings
